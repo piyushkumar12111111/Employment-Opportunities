@@ -14,7 +14,7 @@ If you want to contribute or find out about the available job vacancies you can 
 
 "position" : "blockchain Developer",
 
-"requirements" : "Python, cpp, html",
+"requirements" : "Python, cpp, html, blockchain",
 
 "contactEmail" : "prajwalshelar275@gmail.com"
 } ]
